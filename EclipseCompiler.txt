@@ -1,0 +1,1 @@
+28 Aug 2018 0:55:44 GMT: Log 'EclipseCompiler.txt' opened: 28 Aug 2018 0:55:44 GMT with name E:\java code\practice\EclipseCompiler.txt

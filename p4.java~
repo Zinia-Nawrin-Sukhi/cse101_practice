@@ -1,0 +1,30 @@
+import java.util.Scanner;
+public class p4
+{
+  public static void main(String[]args)
+  {
+    System.out.println("please enter a number");
+    int x=sc.nextInt();
+    
+    System.out.println("please enter a number");
+    int y=sc.nextInt();
+    if(x<y)
+    {
+      for(int i=1;i<=y;i++)
+      {
+        if(i%x==0)
+        {
+          div=i;
+        for(int j=1;j<=div;j++)
+        {
+          System.out.println(j+" ");
+    
+    
+      }
+      }
+
+    }
+    
+      
+  }
+}
